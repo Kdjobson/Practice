@@ -1,13 +1,16 @@
 body{
-    background-color: darkgray;
+    background-color: rgb(112, 112, 112);
 }
 h1{
 font-size: 50px; 
-color: darkred;
+color: rgb(160, 0, 0);
 }
 
 p{
 color: blue;
+}
+span{
+    color: darkgreen
 }
 .uppercase{
 text-transform: uppercase;

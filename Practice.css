@@ -1,0 +1,14 @@
+h1{
+font-size: 50px; 
+color: darkred;
+}
+
+p{
+color: blue;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.small{
+font-size: 15px;
+}

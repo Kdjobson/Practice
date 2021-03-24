@@ -48,6 +48,10 @@ a:hover{
 a:active, :visited{
     color: rgb(241, 98, 98)
 }
+.friends{
+    width: 150px;
+    height: 150px;
+}
 
 /* Footer Element */
 footer{
